@@ -35,14 +35,15 @@ This repository highlights branding and media management projects executed for P
 
 ## Results
 ### Measurable Outcomes
-- **Social Media Growth:** Increased Instagram followers by 45% and Facebook followers by 30% within six months.
+- **Social Media Growth:** Increased Instagram followers by 45% and Facebook followers by 30% within a months. ![Instagram Folower Growth](https://drive.google.com/file/d/1VFsPYBLNVimAKZh6bawOZso5XxE70zEJ/view?usp=drivesdk) 
 - **Enhanced Client Bookings:** Boosted salon appointments by 20% through targeted campaigns and the Fresha booking system.
 - **Improved Brand Visibility:** Achieved a 50% increase in profile visits and engagement rates on social media platforms.
+- ![Engagement Reach in a month](https://drive.google.com/file/d/1pStD4gwsmXJR6DJzEOMMSHjKK6wO6hHP/view?usp=drivesdk)
 
 ## Visuals and Links
 ### Examples of Rebranded Visuals
-- ![New Logo Design](images/phummyfinnesse_logo.png)
-- ![Social Media Post Example](images/social_media_post_example.png)
+- ![New Logo Design](https://www.instagram.com/p/Cx0SBeRNCWL/?igsh=MW1hcTMyNGU4bnFteg==)
+- ![Social Media Post Example](https://www.instagram.com/reel/C30Qoy-Nupf/?igsh=MWk5d21xMjlkY2kzYw==)
 
 ### Campaign Reports
 - [Follower Growth Report](https://docs.google.com/document/d/11aHrZ3jajYdSoImOWkkPBaNiTmpkktOSwFazKBlF5-Y/edit)
